@@ -25,6 +25,12 @@ class Queue{
 		return removedItem;
 	}
 
+	peek() {
+		if (this.isEmpty()) return null;
+
+		return this.items[this.front];
+	}
+
 	isEmpty() {
 		return (this.front === 0 && this.rear === 0)
 	}
