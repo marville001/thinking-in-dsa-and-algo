@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1666771533729" clover="3.2.0">
+  <project timestamp="1666771533729" name="All files">
+    <metrics statements="14" coveredstatements="14" conditionals="4" coveredconditionals="3" methods="6" coveredmethods="6" elements="24" coveredelements="23" complexity="0" loc="14" ncloc="14" packages="1" files="1" classes="1"/>
+    <file name="stack.js" path="D:\Work\MyWork\dsa\dsa-practices\src\stack\stack.js">
+      <metrics statements="14" coveredstatements="14" conditionals="4" coveredconditionals="3" methods="6" coveredmethods="6"/>
+      <line num="3" count="6" type="stmt"/>
+      <line num="4" count="6" type="stmt"/>
+      <line num="5" count="6" type="stmt"/>
+      <line num="9" count="9" type="cond" truecount="1" falsecount="1"/>
+      <line num="11" count="9" type="stmt"/>
+      <line num="12" count="9" type="stmt"/>
+      <line num="16" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="25" count="1" type="stmt"/>
+      <line num="29" count="3" type="stmt"/>
+      <line num="33" count="10" type="stmt"/>
+      <line num="37" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
