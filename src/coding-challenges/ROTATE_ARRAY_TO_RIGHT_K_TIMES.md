@@ -62,3 +62,6 @@ function solution(A, K) {
 }
 
 ```
+
+
+https://app.codility.com/demo/results/trainingY23PNN-7WK/

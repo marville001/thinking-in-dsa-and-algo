@@ -61,3 +61,5 @@ function solution(A) {
 }
 
 ```
+
+https://app.codility.com/demo/results/training58JP5M-DFG/
