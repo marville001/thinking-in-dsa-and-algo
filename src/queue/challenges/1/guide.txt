@@ -1,0 +1,15 @@
+Observe, second Queue (which will contain the sorted element) 
+takes inputs (or enqueue elements) either from given Queue or Stack. 
+So, the next expected (which will initially be 1) element must be present as a front element of a given Queue or top element of the Stack. 
+So, simply simulate the process for the second Queue by initializing the expected element as 
+1. And check if we can get the expected element from the front of the given Queue or from the top of the Stack. 
+If we cannot take it from either of them then pop the front element of the given Queue and push it in the Stack. 
+
+Also, observe, that the stack must also be sorted at each instance i.e the element at the top of the stack must be the smallest in the stack.
+
+For eg. let x > y, then x will always be expected before y. So, x cannot be pushed before y in the stack. 
+
+Therefore, we cannot push an element with a higher value on the top of the element having a lesser value.
+
+Algorithm: 
+
