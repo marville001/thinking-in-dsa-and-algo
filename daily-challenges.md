@@ -24,3 +24,23 @@ Ex: Given the following binary strings...
 	"1" + "0", return  "1"
 
 ---
+
+3. This problem was recently asked by Microsoft.
+
+Given a string, find the length of the longest substring without repeating characters.
+
+
+---
+
+4. This problem was recently asked by Twitter
+
+ palindrome is a sequence of characters that reads the same backwards and forwards. Given a string, s, find the longest palindromic substring in s.
+
+
+ Example:
+ 
+	Input: "banana"
+	Output: "anana"
+
+	Input: "million"
+	Output: "illi"
