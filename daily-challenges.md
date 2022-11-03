@@ -44,3 +44,19 @@ Given a string, find the length of the longest substring without repeating chara
 
 	Input: "million"
 	Output: "illi"
+
+
+---
+
+5.
+
+Given five positive integers, find the minimum and maximum values that can be calculated by summing exactly four of the five integers. Then print the respective minimum and maximum values as a single line of two space-separated long integers.
+
+Example
+
+	arr = [1,3,4,7,9];
+	returns 16 24
+
+The minimum sum is 16 and the maximum sum is 24. The function prints
+
+16 24
